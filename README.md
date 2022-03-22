@@ -9,4 +9,5 @@ O objetivo principal do projeto **Genius Game** é desenvolver um game de memór
 ### Tarefas
 
 - [x] Criação do projeto
+- [x] Criação dos arquivos iniciais
 - [ ] Deploy no github pages
