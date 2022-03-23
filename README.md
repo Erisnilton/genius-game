@@ -1,6 +1,8 @@
 # Sobre o Projeto
 
-O objetivo principal do projeto **Genius Game** é desenvolver um game de memória no estilo o game Genius, em que o usuario precisar acertar a sequência correta das cores.
+O objetivo principal do projeto **Genius Game** é desenvolver um game de memória, no estilo o game Genius, em que o usuario precisar acertar a sequência correta das cores.
+
+# [:link: Demo](https://erisnilton.github.io/genius-game/)
 
 ### Desafio:
 
@@ -9,10 +11,10 @@ O objetivo principal do projeto **Genius Game** é desenvolver um game de memór
 ### Tarefas
 
 - [x] Criação do projeto
-- [ ] Deploy no github pages
+- [x] Deploy no github pages
 
 ### Features
 
 - [x] Criação dos arquivos iniciais
 - [x] Crianção das classes CSS
-- [x] implemantão da lógica do jogo
+- [x] implemantação da lógica do jogo
