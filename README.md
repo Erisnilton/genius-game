@@ -15,3 +15,4 @@ O objetivo principal do projeto **Genius Game** é desenvolver um game de memór
 
 - [x] Criação dos arquivos iniciais
 - [x] Crianção das classes CSS
+- [x] implemantão da lógica do jogo
